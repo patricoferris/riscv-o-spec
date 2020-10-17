@@ -12,6 +12,8 @@ There were many tools modified to make it all happen:
   - [Some specific benchmarks](https://github.com/patricoferris/riscv-benchmarks)
   - [A Spike Analysis Tool](https://github.com/patricoferris/ospike)
 
+Please, if you so wish, re-use any of the work. 
+
 ## Future Work 
 
 This has only scratched the surface of what is possible. Better custom instructions, MirageOS running on RISC-V... all very exciting! 
