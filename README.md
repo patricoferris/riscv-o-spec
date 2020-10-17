@@ -1,8 +1,6 @@
 OCaml RISC-V Extension
 ----------------------
 
-## Overview 
-
 The accompanying pdf (`diss.pdf`) contains my dissertation "Optimisations across Software and Hardware using RISC-V" for my computer science degree from Cambridge. The TL;DR is I added custom instructions to [RISC-V](https://riscv.org/) specifically designed to improve OCaml programs compiled to RISC-V.  
 
 > This dissertation looks at how an open-source specification for a modular, flexible, reduced instruction set architecture, RISC-V, can open doors to greater control and manipulation over the hardware-software interface... we can achieve faster and more power-efficient computers simultaneously...
