@@ -47,7 +47,7 @@ L100:
 
 Some results:
 
-![Dynamic Instruction Count Percentage](images/graph.png)
+![Dynamic Instruction Count Percentage](./graph.png)
 
 ## Future Work 
 
